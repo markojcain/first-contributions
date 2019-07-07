@@ -1,5 +1,6 @@
-﻿# Contributors
+﻿# Contributor
 
+fdas
 -[Harman singh] (https://github.com/Harman-singh-waraich)
 -[Srivatsan Thumati Balaji](https://github.com/kryptocodes)
 -[ManegJemo](https://github.com/L170300101)
